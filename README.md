@@ -10,6 +10,7 @@ Sukoon aims to promote calmness through curated content, tools, and interactive 
 Welcome to **Sukoon** — a mental wellness platform built to help users manage stress and improve their emotional health. 
 The name *Sukoon* means *peace of mind*, and this project brings together features like calming resources, self-care tools, and motivational content to create a 
 supportive user experience. 
+
 ---
 
 ## 💡 Features
