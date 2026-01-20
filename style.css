@@ -337,6 +337,7 @@ h5 {
 
 .footer-container .col .social-menu ul {
   display: flex;
+  justify-content: center;
   gap: 1rem;
 }
 
